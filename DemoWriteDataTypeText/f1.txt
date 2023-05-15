@@ -1,0 +1,4 @@
+Bố mày là Trần Phúc Khánh
+Bố mày cắt đầu moi, bố mày là đàn em của khá bảnh
+Bố mày ko rẻ rách, bố mặc eo vì này trông cũng khá bảnh
+Student [id=27, name=Trần Khánh]
